@@ -1,4 +1,4 @@
-token = "07294795235e1d8e6723029caca10b43f4012c98d88f43f085fd97b9661c55e1"
+token = "0729479523dsdsdwsjnhdslkjdsadkajshdasjhdlsakjlkjasdalskjakj"
 stackscript_data = {
   "ssuser" = "ali"
   "hostname" = "wordpress.zellahost.com"
